@@ -19,6 +19,7 @@ It will enable you to bring Susi AI intelligence to all devices you may think li
 - Offline Voice Detection (if possible with satisfactory results)
 - Add hardware specific options like Susi Wake Button.
 
+dsdsfd
 
 ## Setting up Susi on Linux
 
